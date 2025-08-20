@@ -1,4 +1,6 @@
-# FUTURE_CS_03 Given by FUTURE INTERNS
+# FUTURE_CS_03 
+
+#Task 3 Given by FUTURE INTERNS
 
 # 🔐 Secure File Share (Flask + AES)
 
@@ -34,6 +36,7 @@ secure-file-share/
 │-- templates/           # HTML templates
 │   │-- index.html       # Upload page
 │   │-- files.html       # File list page
+|   |-- security.html    # Security Overview Given
 │-- uploads/             # Encrypted files folder
 ```
 
@@ -43,7 +46,7 @@ secure-file-share/
 
 ### 1️⃣ Clone Repo
 ```sh
-git clone https://github.com/your-username/secure-file-share.git
+git clone [https://github.com/Navneet3923E/FUTURE_CS_03.git]
 cd secure-file-share
 ```
 
@@ -63,7 +66,7 @@ AES_PASSPHRASE=MyStrongSecurePassphrase123!
 python app.py
 ```
 
-Open in browser → [http://127.0.0.1:5000](http://127.0.0.1:5000)
+Open in browser → [http://localhost:5000](http://localhost:5000)
 
 ---
 
