@@ -81,3 +81,10 @@ Open in browser → [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📜 License
 MIT License © 2025 Navneet Bhatt
+
+---
+
+👉 This README already includes: project intro, features, stack, structure, setup guide, **security overview**, and license.  
+
+Do you also want me to add a **GitHub Actions workflow (CI/CD)** in the repo so it installs dependencies and runs a test each time you push? That will make your repo look more professional.
+
