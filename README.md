@@ -46,7 +46,7 @@ secure-file-share/
 
 ### 1️⃣ Clone Repo
 ```sh
-git clone [https://github.com/Navneet3923E/FUTURE_CS_03.git]
+git clone https://github.com/Navneet3923E/FUTURE_CS_03.git
 cd secure-file-share
 ```
 
@@ -84,10 +84,3 @@ Open in browser → [http://localhost:5000](http://localhost:5000)
 
 ## 📜 License
 MIT License © 2025 Navneet Bhatt
-
----
-
-👉 This README already includes: project intro, features, stack, structure, setup guide, **security overview**, and license.  
-
-Do you also want me to add a **GitHub Actions workflow (CI/CD)** in the repo so it installs dependencies and runs a test each time you push? That will make your repo look more professional.
-
